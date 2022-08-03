@@ -15,7 +15,7 @@
     "autoload": {
         "psr-4": {"chandachewe\\php_email_verification\\": "src/"}
     },
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "php": "^7.3|^8.0"
     },
